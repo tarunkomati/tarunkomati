@@ -10,16 +10,16 @@
 
 <br/><br/>
 
-<a href="(linkedin-link)" target="_blank">
+<a href="https://www.linkedin.com/in/tarun-komati-421253329/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="(github-link)" target="_blank">
+<a href="https://github.com/tarunkomati" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="(portfolio-link)" target="_blank">
+<a href="www.tarunkomati.in" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-EC4899?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
-<a href="mailto:(your-email)" target="_blank">
+<a href="mailto:tarunkomati2@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
