@@ -6,15 +6,9 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=200&text=TARUN%20KOMATI&fontSize=42&fontAlignY=45&theme=radical" alt="Tarun Komati banner" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=240&color=0:0F0C29,50:141432,100:1B1035&text=TARUN%20KOMATI&fontSize=44&fontColor=EC4899&fontAlign=50&fontAlignY=38&desc=AI%20ML%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20React%20%7C%20Python%20%7C%20AI%20Automation&descSize=16&descAlign=50&descAlignY=68&animation=fadeIn" alt="Tarun Komati banner" />
 
 <br/><br/>
-
-<p>
-  <b>AI & ML Engineer • Full Stack Developer • React • Python • AI Automation</b>
-</p>
-
-<br/>
 
 <a href="(linkedin-link)" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -54,7 +48,7 @@
 </div>
 
 - **Frontend Engineering:** React, responsive UI, reusable components  
-- **AI & Automation:** smart workflows, structured outputs, real-world productivity systems  
+- **AI and Automation:** smart workflows, structured outputs, real-world productivity systems  
 - **Applied ML:** preprocessing, experimentation, evaluation, and iteration  
 - **Full Stack Development:** frontend and backend integration for complete products  
 - **Data Analytics:** insights, reporting, and decision-ready outputs  
@@ -150,7 +144,7 @@
 ---
 
 ## 🎓 Education
-**B.Tech in Artificial Intelligence & Machine Learning**  
+**B.Tech in Artificial Intelligence and Machine Learning**  
 **Parul University, Vadodara, Gujarat**  
 2023 – Present  
 
