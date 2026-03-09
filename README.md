@@ -6,9 +6,15 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F0C29,50:302B63,100:24243E&text=TARUN%20KOMATI&fontSize=46&fontAlignY=38&fontColor=F8FAFC&desc=AI%20%26%20ML%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20React%20%7C%20Python%20%7C%20AI%20Automation&descAlignY=60&descSize=16&animation=fadeIn" alt="hero" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=200&text=TARUN%20KOMATI&fontSize=42&fontAlignY=45&theme=radical" alt="Tarun Komati banner" />
 
 <br/><br/>
+
+<p>
+  <b>AI & ML Engineer • Full Stack Developer • React • Python • AI Automation</b>
+</p>
+
+<br/>
 
 <a href="(linkedin-link)" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white" />
