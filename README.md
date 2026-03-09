@@ -153,9 +153,9 @@ Focused on AI, Machine Learning, full stack development, automation systems, and
 ---
 
 ## 📬 Contact
-- **Email:** (your-email)  
-- **LinkedIn:** (your-linkedin-link)  
-- **Portfolio:** (your-portfolio-link)  
+- **Email:** tarunkomati2@gmail.com 
+- **LinkedIn:** https://www.linkedin.com/in/tarun-komati-421253329/ 
+- **Portfolio:** www.tarunkomati.in
 
 <div align="center">
   <sub>AI thinking + design clarity + engineering execution. Building products that solve real problems.</sub>
