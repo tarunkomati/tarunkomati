@@ -16,7 +16,7 @@
 <a href="https://github.com/tarunkomati" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="www.tarunkomati.in" target="_blank">
+<a href="tarunkomati.in" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-EC4899?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 <a href="mailto:tarunkomati2@gmail.com" target="_blank">
