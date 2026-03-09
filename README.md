@@ -1,34 +1,32 @@
 <!-- =========================================================
-  Tarun Komati • GitHub Profile README (Designer-grade / 1% vibe)
+  Tarun Komati • GitHub Profile README
   Paste into: yourusername/yourusername README.md
-  Tip: Replace placeholders like (repo-link) with your real repo URLs.
+  Replace placeholders like (github-link), (linkedin-link), etc.
 ========================================================= -->
 
 <div align="center">
 
-<!-- HERO (clean + premium) -->
-<img src="https://capsule-render.vercel.app/api?type=rect&height=210&color=0:0B1220,50:111827,100:1D4ED8&text=TARUN%20KOMATI&fontSize=44&fontAlignY=42&fontColor=FFFFFF&desc=AI%20ML%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20React%20%7C%20Python&descAlignY=70&descSize=16" alt="hero" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F0C29,50:302B63,100:24243E&text=TARUN%20KOMATI&fontSize=46&fontAlignY=38&fontColor=F8FAFC&desc=AI%20%26%20ML%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20React%20%7C%20Python%20%7C%20AI%20Automation&descAlignY=60&descSize=16&animation=fadeIn" alt="hero" />
+
 <br/><br/>
 
-<!-- PREMIUM SOCIAL BAR -->
 <a href="(linkedin-link)" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="(github-link)" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-0B1220?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="(portfolio-link)" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-1D4ED8?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Portfolio-EC4899?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 <a href="mailto:(your-email)" target="_blank">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <br/><br/>
 
-<!-- ONE-LINER (minimal + sharp) -->
 <p>
-  <b>AI and ML undergraduate</b> building <b>AI-powered web products</b> — clean UI, useful automation, and structured real-world solutions.
+  <b>AI and ML undergraduate</b> building <b>AI-powered web products</b> with modern design, practical automation, and real-world solutions.
 </p>
 
 </div>
@@ -36,9 +34,9 @@
 ---
 
 ## ✦ Signature
-- **Build:** modern web interfaces with strong frontend systems  
-- **Think:** AI workflows that turn inputs into useful outputs  
-- **Ship:** practical products with clean design and real use cases  
+- **Build:** modern web interfaces with clean and responsive design  
+- **Think:** AI workflows that turn ideas into useful systems  
+- **Ship:** products that are practical, scalable, and demo-ready  
 
 ---
 
@@ -49,11 +47,11 @@
 
 </div>
 
-- **Frontend Engineering:** React, responsive UI, modern component-based design  
-- **AI & Automation:** intelligent workflows, structured outputs, productivity systems  
-- **Applied ML:** data handling, preprocessing, experimentation, evaluation  
-- **Full Stack Development:** frontend + backend integration for real-world products  
-- **Data Analytics:** extracting insights, reports, and decision-ready outputs  
+- **Frontend Engineering:** React, responsive UI, reusable components  
+- **AI & Automation:** smart workflows, structured outputs, real-world productivity systems  
+- **Applied ML:** preprocessing, experimentation, evaluation, and iteration  
+- **Full Stack Development:** frontend and backend integration for complete products  
+- **Data Analytics:** insights, reporting, and decision-ready outputs  
 
 ---
 
@@ -61,13 +59,13 @@
 
 ### **LocalMind OS** — *Offline AI Knowledge + Workflow Assistant*
 **Goal:** create a local-first AI system that helps users manage files, notes, tasks, and workflows without depending fully on the cloud.  
-**What ships:** local knowledge access, workflow organization, intelligent retrieval, and productivity-focused dashboards.  
+**What ships:** local knowledge access, workflow organization, intelligent retrieval, and productivity dashboards.  
 **Tech:** React, Python, AI workflow design, local system concepts.  
 **Repo:** (add-link)
 
 ### **AgriGuide AI** — *Smart Agriculture Support System*
 **Goal:** help farmers upload crop or soil images and receive issue detection with practical guidance.  
-**What ships:** image-based analysis flow, result screens, region-aware suggestions, and farmer-friendly UI.  
+**What ships:** image-based analysis flow, result pages, region-aware suggestions, and a farmer-friendly interface.  
 **Tech:** React, Python, Flask, image processing, AI-based recommendations.  
 **Repo:** (add-link)
 
@@ -77,10 +75,10 @@
 **Tech:** Python, AI agents, workflow logic, prompt engineering.  
 **Repo:** (add-link)
 
-### **MoM Automation** — *Minutes of Meeting Generator*
-**Goal:** transform meeting discussions into clear summaries, action items, and ownership tracking.  
-**What ships:** meeting summarization, decisions list, task extraction, and clean report formatting.  
-**Tech:** Python, NLP or LLM workflows, automation logic, optional web UI.  
+### **Execution-Oriented RAG System** — *AI That Acts, Not Just Answers*
+**Goal:** build an AI system that not only retrieves information but also performs workflow actions based on user requests.  
+**What ships:** retrieval pipeline, planning agent, permission-aware execution flow, and audit-ready action tracking.  
+**Tech:** React, Python, AI agents, RAG workflows, automation logic.  
 **Repo:** (add-link)
 
 ### **SkillSense AI** — *Skill Gap Analysis + Roadmap Generator*
@@ -91,16 +89,16 @@
 
 ---
 
-## 🧠 Build Style (the “designer” part)
+## 🧠 Build Style
 - **Minimal UI, maximum clarity**  
-- **User-first thinking:** interfaces should feel simple, fast, and useful  
-- **Consistency:** clean structure, folders, components, and outputs  
-- **Demo-ready products:** problem → solution → workflow → result  
-- **Execution mindset:** not just ideas, but usable implementations  
+- **User-first design** with simple and clean interfaces  
+- **Consistency** in components, structure, naming, and outputs  
+- **Demo-ready execution** with strong presentation and workflow clarity  
+- **Problem-solving mindset** focused on useful, real applications  
 
 ---
 
-## 🧰 Tech Stack (high-level but readable)
+## 🧰 Tech Stack
 <div align="center">
 
 <table>
@@ -126,7 +124,7 @@
 
 ---
 
-## 📈 Proof (stats, clean theme)
+## 📈 GitHub Stats
 <div align="center">
 
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=(your-github-username)&show_icons=true&hide_border=true&theme=transparent" />
@@ -150,7 +148,7 @@
 **Parul University, Vadodara, Gujarat**  
 2023 – Present  
 
-Focused on AI, Machine Learning, web development, automation systems, and practical product building.
+Focused on AI, Machine Learning, full stack development, automation systems, and practical product building.
 
 ---
 
