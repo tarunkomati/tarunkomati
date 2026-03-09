@@ -1,9 +1,3 @@
-<!-- =========================================================
-  Tarun Komati • GitHub Profile README
-  Paste into: yourusername/yourusername README.md
-  Replace placeholders like (github-link), (linkedin-link), etc.
-========================================================= -->
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=240&color=0:0F0C29,50:141432,100:1B1035&text=TARUN%20KOMATI&fontSize=44&fontColor=EC4899&fontAlign=50&fontAlignY=38&desc=AI%20ML%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20React%20%7C%20Python%20%7C%20AI%20Automation&descSize=16&descAlign=50&descAlignY=68&animation=fadeIn" alt="Tarun Komati banner" />
